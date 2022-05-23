@@ -1,5 +1,5 @@
 
-![title](img/SuinChoi_Profile.jpg){:width="100" height="100"}
+![title](/img/SuinChoi_Profile.jpg){:width="100" height="100"}
 
 Hello, I'm Choi Soo In.
 I'm interested in the back end, and I'm studying the front end together.
